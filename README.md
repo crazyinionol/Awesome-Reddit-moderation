@@ -13,3 +13,7 @@ What's their grand plan, you ask? To keep the RMT mafia (Romantic Misadventures 
 
 Your New Motto
 “Stop complaining and start complying!” It’s a little catchy, don’t you think? Say it with me! It’s a reminder that your grievances are simply exquisite melodies in the symphony of our rule!
+
+-
+
+Sadly, Automoderator.json is too large (https://gofile.io/d/tQHWWB).
